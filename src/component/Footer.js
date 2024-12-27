@@ -6,7 +6,6 @@ const Footer = () => {
       <p>© 2024 Lanna Polytechnic College. All Rights Reserved.</p>
     </footer>
   );
-}
+};
 
 export default Footer;
-        
