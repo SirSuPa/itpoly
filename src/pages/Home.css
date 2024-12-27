@@ -1,0 +1,27 @@
+/* Custom styles for Home page */
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 0 10px;
+}
+
+.image-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-image {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s;
+}
+
+.custom-image:hover {
+  transform: scale(1.05);
+}
