@@ -5,7 +5,6 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 export default function Home() {
   return (
     <div className="container my-4">
-      {/* ข้อมูลทั่วไปของสาขา */}
       <h1 className="mb-3 text-center text-success">ข้อมูลทั่วไปของสาขา</h1>
       <div className="card shadow-lg p-4 mb-4 rounded">
         <p>
@@ -13,18 +12,17 @@ export default function Home() {
         </p>
       </div>
 
-      {/* สไลด์ภาพ */}
       <div className="d-flex justify-content-center my-4">
         <div id="carouselExample" className="carousel slide" data-bs-ride="carousel">
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img src="https://www.lannapoly.ac.th/web/assets/img-it-UTNwL-IP.jpeg" className="d-block w-100 img-fluid rounded" alt="..." />
+              <img src="https://www.lannapoly.ac.th/web/assets/img-it-UTNwL-IP.jpeg" className="d-block w-100 img-fluid rounded" alt="Slide 1" />
             </div>
             <div className="carousel-item">
-              <img src="https://www.lannapoly.ac.th/web/gallery/20240401-034105.jpg" className="d-block w-100 img-fluid rounded" alt="..." />
+              <img src="https://www.lannapoly.ac.th/web/gallery/20240401-034105.jpg" className="d-block w-100 img-fluid rounded" alt="Slide 2" />
             </div>
             <div className="carousel-item">
-              <img src="https://www.lannapoly.ac.th/web/gallery/20241204-024758.jpg" className="d-block w-100 img-fluid rounded" alt="..." />
+              <img src="https://www.lannapoly.ac.th/web/gallery/20241204-024758.jpg" className="d-block w-100 img-fluid rounded" alt="Slide 3" />
             </div>
           </div>
           <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -38,7 +36,6 @@ export default function Home() {
         </div>
       </div>
 
-      {/* ยินดีต้อนรับ */}
       <h2 className="text-center mt-5 text-success">ยินดีต้อนรับสู่สาขาเทคโนโลยีสารสนเทศ (IT)</h2>
       <div className="card shadow-lg p-4 mb-4 rounded">
         <p className="text-center">
@@ -46,7 +43,6 @@ export default function Home() {
         </p>
       </div>
 
-      {/* ปรัชญาของสาขา */}
       <h3 className="text-center mt-4 text-success">นวัตกรรมเพื่อการพัฒนา ความรู้เพื่อความยั่งยืน</h3>
       <div className="card shadow-lg p-4 mb-4 rounded">
         <p className="text-center">
