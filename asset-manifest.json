@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/SirSuPa/itpoly.git/static/css/main.fb961db8.css",
-    "main.js": "/SirSuPa/itpoly.git/static/js/main.398bba61.js",
-    "static/js/488.0635c98f.chunk.js": "/SirSuPa/itpoly.git/static/js/488.0635c98f.chunk.js",
-    "static/media/logo.svg": "/SirSuPa/itpoly.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/SirSuPa/itpoly.git/index.html",
-    "main.fb961db8.css.map": "/SirSuPa/itpoly.git/static/css/main.fb961db8.css.map",
-    "main.398bba61.js.map": "/SirSuPa/itpoly.git/static/js/main.398bba61.js.map",
-    "488.0635c98f.chunk.js.map": "/SirSuPa/itpoly.git/static/js/488.0635c98f.chunk.js.map"
+    "main.css": "/itpoly/static/css/main.281157f5.css",
+    "main.js": "/itpoly/static/js/main.aa923e2f.js",
+    "index.html": "/itpoly/index.html",
+    "main.281157f5.css.map": "/itpoly/static/css/main.281157f5.css.map",
+    "main.aa923e2f.js.map": "/itpoly/static/js/main.aa923e2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb961db8.css",
-    "static/js/main.398bba61.js"
+    "static/css/main.281157f5.css",
+    "static/js/main.aa923e2f.js"
   ]
 }
