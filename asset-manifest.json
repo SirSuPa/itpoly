@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/itpoly/static/css/main.313aee01.css",
-    "main.js": "/itpoly/static/js/main.c831dfb8.js",
+    "main.css": "/itpoly/static/css/main.4db0dbff.css",
+    "main.js": "/itpoly/static/js/main.9643db98.js",
     "index.html": "/itpoly/index.html",
-    "main.313aee01.css.map": "/itpoly/static/css/main.313aee01.css.map",
-    "main.c831dfb8.js.map": "/itpoly/static/js/main.c831dfb8.js.map"
+    "main.4db0dbff.css.map": "/itpoly/static/css/main.4db0dbff.css.map",
+    "main.9643db98.js.map": "/itpoly/static/js/main.9643db98.js.map"
   },
   "entrypoints": [
-    "static/css/main.313aee01.css",
-    "static/js/main.c831dfb8.js"
+    "static/css/main.4db0dbff.css",
+    "static/js/main.9643db98.js"
   ]
 }
